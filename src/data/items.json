@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Jack",
+      "price": 39.99,
+      "imgUrl": "/images/Jack.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Woodford Reserve",
+      "price": 80,
+      "imgUrl": "/images/Woodfordreserve.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Monkey Shoulder",
+      "price": 29.99,
+      "imgUrl": "/images/Monkeyshoulder.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Knob Greek",
+      "price": 50,
+      "imgUrl": "/images/Knobgreek.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Taylor",
+        "price": 70,
+        "imgUrl": "/images/Taylor.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Red Label",
+        "price": 60,
+        "imgUrl": "/images/Redlabel.jpg"
+      }
+
+  ]

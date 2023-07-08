@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Heineken",
+      "price": 9.99,
+      "imgUrl": "/images/Heineken.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Modelo",
+      "price": 10,
+      "imgUrl": "/images/Modelo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wiltshire",
+      "price": 19.99,
+      "imgUrl": "/images/Wiltshire.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Carlsberg",
+      "price": 12,
+      "imgUrl": "/images/Carlsberg.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Corona",
+        "price": 18,
+        "imgUrl": "/images/Corona.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Budweiser",
+        "price": 16,
+        "imgUrl": "/images/Budweiser.jpg"
+      }
+
+  ]

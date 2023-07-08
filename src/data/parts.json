@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Dom Perignon",
+      "price": 79.99,
+      "imgUrl": "/images/Domperignon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chablis",
+      "price": 70,
+      "imgUrl": "/images/Chablis.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Faurar",
+      "price": 49.99,
+      "imgUrl": "/images/Faurar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cabernet Sauvignon",
+      "price": 60,
+      "imgUrl": "/images/Cabernetsauvignon.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Amarone",
+        "price": 40,
+        "imgUrl": "/images/Amarone.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Toscano",
+        "price": 50,
+        "imgUrl": "/images/Toscano.jpg"
+      }
+
+  ]
